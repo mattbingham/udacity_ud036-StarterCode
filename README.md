@@ -41,7 +41,3 @@ New files and folders have been added for assets. References to the locations of
 - **Moved** links in `fresh_tomatoes.py` to load after body (inserted just before closing body tag)
 - **Moved** `main.css` link in `fresh_tomatoes.py` to load after bootstrap stylesheets
 - **Removed** references to YouTube in case of future use of a service other than YouTube
-
-### Versioning / Future proofing
-___
-For future project code that requires marking by Udacity tutors, the [Udacity GitHub folder](https://github.com/mattbingham/udacity) will allow easy access to these files. The [README.md](https://github.com/mattbingham/udacity/blob/master/README.md) file at the link will be updated to list all projects.
